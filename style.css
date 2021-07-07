@@ -1,0 +1,48 @@
+
+textarea {
+  padding:5px;
+  color:blue;
+  border: solid 5px black ;
+  box-shadow: 5px 5px;
+}
+.row {
+  padding : 10px;
+  background-color:rgba(31, 39, 21, 0.062);
+}
+.container{
+  background-color:rgba(23, 32, 27,0.86);
+  box-shadow: 2px 2px 2px 2px rgb(220, 230, 220,0.7);
+  
+  margin:10%;
+  margin-left:50%;
+  margin-right:50%;
+  //background-color:rgb(38, 128, 189,0.4);
+}
+h1{
+  color: red;
+  padding:10px;
+}
+
+
+form {
+  height: 30px;
+  }
+
+ #one,#two,#three,#four,#five,#six,#seven,#eight,#nine,#zero, #plus, #minus, #mul, #division, #dec ,#mod ,#equals, #del, #clear {
+   //color:black;
+   //background-color:cornsilk;
+   box-shadow:1px 1px  rgb(209, 200, 200);
+ }
+ 
+ body {
+   background-color: rgb(207, 28, 28);
+   padding :30px;
+ }
+  #plus, #minus, #mul, #division, #dec ,#mod {
+    font-size: 15px;
+  }
+
+#clear {
+  text-align:center;
+}
+  
